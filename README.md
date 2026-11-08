@@ -1,6 +1,6 @@
-# melvinteo.com
+# melvinteo-personal-site
 
-Personal portfolio site for [Melvin Teo](https://melvinteo.com): about, skills, experience, and projects.
+My personal site!
 
 ## Stack
 
